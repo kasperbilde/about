@@ -5,6 +5,7 @@
   summary: The PhD project is carried out at Alfa Laval Aalborg where a water treatment system for cleaning scrubber washwater is to be simulated within the CFD framework. A special focus on the particle agglomeration pre-treatment is chosen, where a particle agglomeration and breakage model is developed within the multiphase Euler-Euler framework. The CFD-PBE model is developed using OpenFOAM and submodels and a tutorial has been published to the official release.
 
 - degree: M.Sc. Thermal Energy and Process Engineering
+  uni: Aalborg University
   year: 2017 &mdash; 2019
   summary: I wrote my Master's thesis about dynamic start-up of natural circulation biomass boilers. The simulation tool was developed using Matlab and a paper of the work was published.
 
