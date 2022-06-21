@@ -1,0 +1,23 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Scrubber spray cooling
+- project: Spray cooling of exhaust gas
+  role: R&D Engineer
+  duration: 2019 &mdash; 2020
+  # url: "#"
+  description: About
+
+# Aggregation and breakage of particles
+- project: Flocculation of micron-sized particles for accelerated sedimentation
+  role: PhD Researcher
+  duration: 2020 &mdash; Present
+  # url: "#"
+  description: About
+
+# Dynamic simulation of natural circulation boilers during start-up
+- project: Dynamic simulation of natural circulation boilers during start-up
+  role: Master's student
+  duration: 2018 &mdash; 2019
+  # url: "#"
+  description: About.

@@ -1,0 +1,15 @@
+# Degree
+- degree: Industrial PhD
+  uni: Aalborg University
+  year: 2020 &mdash; Present
+  summary: The PhD project is carried out at Alfa Laval Aalborg where a water treatment system for cleaning scrubber washwater is to be simulated within the CFD framework. A special focus on the particle agglomeration pre-treatment is chosen, where a particle agglomeration and breakage model is developed within the multiphase Euler-Euler framework. The CFD-PBE model is developed using OpenFOAM and submodels and a tutorial has been published to the official release.
+
+- degree: M.Sc. Thermal Energy and Process Engineering
+  year: 2017 &mdash; 2019
+  summary: I wrote my Master's thesis about dynamic start-up of natural circulation biomass boilers. The simulation tool was developed using Matlab and a paper of the work was published.
+
+- degree: B.Sc. Energy Engineering
+  uni: Aalborg University
+  year: 2014 &mdash; 2017
+  summary: Bachelor of Science in Energy Engineering covers a baseline education within high-/low voltage systems, mechatronics and thermal energy. At the 5th semester I chose to specialise within thermal energy.
+

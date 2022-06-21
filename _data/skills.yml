@@ -1,0 +1,12 @@
+# Skills
+# CFD
+- skill: Computational fluid dynamics
+  description: Throughout my PhD I have worked with computational fluid dynamics and the use of this method for various applications. I have mainly focused on particle-laden flows using a combination of CFD-DEM and CFD-PBE to predict particle aggregation.
+
+# Cloud computing
+- skill: Cloud computing
+  description: Installing simulation software, users and maintaining a high-performance virtual machine in Microsoft Azure has been a skill I have learned over the past three years, as the R&D team needed such a solution.
+
+# Digital twin
+- skill: Digital twin modelling
+  description: Creating a digital twin of a process or application is something that I always strive to achieve. Throughout my Master's project, various tasks as a R&D engineer and the research during my PhD, the focus has been on developing a digital twin for a system or application.

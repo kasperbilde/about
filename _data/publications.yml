@@ -1,0 +1,15 @@
+# Publications
+# comment out the urls if you do not wish to display them
+
+- organization: Mathematical model of natural circulation biomass boilers during start-up
+  role: Corresponding author
+  year: 2018
+  url: https://doi.org/10.1016/j.ijheatmasstransfer.2019.118477
+  summary: An issue was noted during start-up of the natural circulation boiler at Aalborg Energie Technik and I decided that I would try to model this issue during my Master's thesis. During warm start-up of the boiler, the evaporator was sometimes flooded with water and this model allowed to analyse the impact of various scenarios.
+
+
+- organization: HZDR Multiphase Addon for OpenFOAM
+  role: Developer
+  year: 2022
+  url: http://doi.org/10.14278/rodare.1496
+  summary: International collaboration with Helmholtz Zentrum Rossendorf-Dresden about aggregation- and breakage kernels as well as interfacial force models for OpenFOAM. The developed models were published as part of the HZDR OpenFOAM addon.

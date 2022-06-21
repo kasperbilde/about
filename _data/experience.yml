@@ -1,0 +1,19 @@
+# Jobs
+# PhD Candidate
+- company: Alfa Laval A/S
+  position: Industrial PhD Student
+  duration: 2020 &mdash; Present
+  summary: Developing the modelling framework to predict the agglomeration of micron-sized particles in turbulent flows. I have set up a cloud computing solution in Azure for the R&D department for carrying out OpenFOAM simulations and I also manage users and updates within the cloud.
+
+# R&D Engineer
+- company: Alfa Laval A/S
+  position: R&D Engineer
+  duration:  2019 &mdash; 2020
+  summary: Developing various CFD models and applying for funding for industrial PhD project. During this short employment I also wrote an application for an MUDP project which recieved funding of ~2.4 MDKK.
+
+
+# Student assistent
+- company: Aalborg Energie Technik
+  position: Student assistent
+  duration:   Jun, 2017  &mdash; 2019
+  summary: During this job I assisted with clean-up of various simulation codes for the design tool. The scripts was written in Visual Basics and used Excel for in-/outputs.
